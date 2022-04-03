@@ -2,7 +2,7 @@
 
 A React app bootstrapped with create-react-app.
 
-[SilverScreen Live Link](https://omniswift-tech-assessment.netlify.app)
+[Live Link](https://omniswift-tech-assessment.netlify.app)
 
 ## Getting Started
 
